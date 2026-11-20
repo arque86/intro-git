@@ -12,12 +12,12 @@ Práctica de introducción a Git: clonado, navegación por el historial, compara
 
 ## Historial de ramas
 
-![Historial de todas las ramas](capturas/ramas-historial.png)
+![Historial de todas las ramas](capturas/historial-de-ramas.png)
 
 ## Dos columnas editadas en main
 
-![Dos columnas editadas](capturas/dos-columnas-editadas.png)
+![Dos columnas editadas](capturas/dos-columnas.png)
 
 ## Resolución del conflicto
 
-![Resolución del conflicto](capturas/resolucion-conflicto.png)
+![Resolución del conflicto](capturas/conflicto-resuelto.png)png)
